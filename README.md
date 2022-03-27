@@ -6,7 +6,7 @@ Chen, M., Goodall, T., Patney, A., & Bovik, A. C. (2022). Learning to compress v
 
 
 
-<img src="imgs/Architecture.png" width="300" />
+<img src="imgs/Architecture.png" width="500" />
 
 ## Test
 
@@ -19,9 +19,9 @@ Evaluation results on the UVG dataset and HEVC Class B (1080p) and Class E (720p
 We also provide the data  of our model in file `RDCurve`.
 
 <p float="left">
-  <img src="imgs/UVG.png" width="100" />
-  <img src="imgs/UVG.png" width="100" /> 
-  <img src="imgs/UVG.png" width="100" />
+  <img src="imgs/UVG.png" width="300" />
+  <img src="imgs/UVG.png" width="300" /> 
+  <img src="imgs/UVG.png" width="300" />
 </p>
 
 ### Citation
