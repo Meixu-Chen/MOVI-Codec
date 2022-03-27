@@ -4,7 +4,7 @@ This repo holds the code for the paper:
 
 Chen, M., Goodall, T., Patney, A., & Bovik, A. C. (2022). Learning to compress videos without computing motion. *Signal Processing: Image Communication*, 116633. [[arXiv]](https://arxiv.org/pdf/2009.14110)
 
-<img src="imgs/Architecture.png" alt=" " style="zoom: 35%;" />
+<img src="imgs/Architecture.png" alt=" " style="zoom: 10%;" />
 
 ## Test
 
@@ -16,7 +16,7 @@ Evaluation results on the UVG dataset and HEVC Class B (1080p) and Class E (720p
 
 We also provide the data  of our model in file `RDCurve`.
 
-<img src="imgs/UVG.png" alt=" " style="zoom: 15%;" /><img src="imgs/ClassB.png" alt=" " style="zoom:15%;" /><img src="imgs/ClassE.png" alt=" " style="zoom:15%;" />
+<img src="imgs/UVG.png" alt=" " style="zoom: 10%;" /><img src="imgs/ClassB.png" alt=" " style="zoom:10%;" /><img src="imgs/ClassE.png" alt=" " style="zoom:10%;" />
 
 ### Citation
 If you find our paper useful, please cite:
