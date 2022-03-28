@@ -20,8 +20,8 @@ We also provide the data  of our model in file `RDCurve`.
 
 <p float="left">
   <img src="imgs/UVG.png" width="300" />
-  <img src="imgs/UVG.png" width="300" /> 
-  <img src="imgs/UVG.png" width="300" />
+  <img src="imgs/ClassB.png" width="300" /> 
+  <img src="imgs/ClassE.png" width="300" />
 </p>
 
 ### Citation
